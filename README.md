@@ -18,3 +18,10 @@ decision-making and improved strategies for customer acquisition and retention.
 ● Conclusion: As a result of my work on the Zomato network analysis dashboard, the company was
 able to gain a deeper understanding of the factors driving customer behavior and restaurant
 success, leading to more effective strategies for growth and customer retention.
+
+<img width="958" alt="image" src="https://github.com/shivanisriup/Zomato-Network-Analysis/assets/47216897/fbdd0294-4aa0-48bb-b6c3-ef5a059ae10d">
+
+
+<img width="932" alt="image" src="https://github.com/shivanisriup/Zomato-Network-Analysis/assets/47216897/22286460-53bc-4563-bce2-5c4b13ec044f">
+
+
